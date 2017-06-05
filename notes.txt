@@ -1,16 +1,20 @@
+Try following the steps given in 3rd 4th and 5th point.
+
 Repository - A place where all your project files are stored, each and every one of them.
 
-
-Now we all have free accounts, which means our project files are visible to everyone else.
+Now we all have free accounts, which means our project files are visible to everyone else aka everything we do here is
+open source.
 
 1. Forking
 Now imagine you see the source code of a website on github and you wanna make some tweaks to it, just to try it out.
-Obviously, you can't change their code.
+Obviously, you can't change their original code.
 What you'll do is click on the "FORK" button. This will make a copy of the project files of the website you saw in
 your github account and now you can do whatever you want without effecting the original code.
 
+
 2. Clone or download
-This will download a zip folder of all the project files in your computer 
+This will download a zip folder of all the project files in your computer. You probably already know this. 
+
 
 3. Commit
 Just open github.com, click on "new repository", give a Repository name and check the
@@ -24,6 +28,7 @@ Add a message, this will help you to keep track of which commit made which chang
 Like "added the sign up" "added the sign in"
 You can see your commit history also by clicking on the commit counts displayed.
 
+
 4. Branches
 While we work on a single project in a group, we will do many changes and as we all know, adding just a
 goddamn space, fucks up everything.
@@ -33,4 +38,26 @@ You can create a new branch by clicking on the left drop-down "Branch:Master"
 Name it anything, like 'newtest' and click enter.
 
 You'll see that your new branch has the exact same files as your main branch.
-Now while you are in this branch any changes/commits you make to this branch will not affect the main branch,
+Now while you are in this branch any changes/commits you make to this branch will not affect the main branch.
+Add a file or two, or make changes to the existing file
+
+
+5. Pull request and merging
+Let's say you made some changes and are satisfied with the results in your 'newtest' branch and you have decided
+that this final set of project files should be the main set of project files aka the master branch.
+
+What you'll now do is submit a pull request. You can do that by clicking the "Compare and pull request"
+Then add a description for others to read and understand. And click on "Create pull request"
+
+Now if you're the only contributor in the repository, you can just click on "Merge pull request" and your branches will 
+be merged quite literally. 
+
+If there are other contributors, a chat like thing will be opened up where others can review the work and discuss and
+after mutual agreement, merge the pull request.
+Of course you can also merge the pull request yourself, it's generally not a good idea~
+You can now delete the branch or just leave it there
+
+6. Merge conflicts
+This is the messed up part and frankly, I don't understand it every well either.
+
+I will update this after a little while. Will inform on the group.
