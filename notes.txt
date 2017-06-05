@@ -1,0 +1,22 @@
+Repository - A place where all your project files are stored, each and every one of them.
+
+
+Now we all have free accounts, which means our project files are visible to everyone else.
+
+1. Forking
+Now imagine you see the source code of a website on github and you wanna make some tweaks to it, just to try it out.
+Obviously, you can't change their code.
+What you'll do is click on the "FORK" button. This will make a copy of the project files of the website you saw in
+your github account and now you can do whatever you want without effecting the original code.
+
+2. Clone or download
+This will download a zip folder of all the project files in your computer 
+
+3. Commit
+Just open github.com, click on "new repository", give a Repository name and check the
+"Initialize this repository with a README" thingy.
+
+Create the repository.
+Now, just upload a random text file in the repository.
+
+ 
