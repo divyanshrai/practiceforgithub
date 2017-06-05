@@ -18,5 +18,19 @@ Just open github.com, click on "new repository", give a Repository name and chec
 
 Create the repository.
 Now, just upload a random text file in the repository.
+You'll see the option to commit changes.
+This will ensure that the files are uploaded and changes are set.
+Add a message, this will help you to keep track of which commit made which changes.
+Like "added the sign up" "added the sign in"
+You can see your commit history also by clicking on the commit counts displayed.
 
- 
+4. Branches
+While we work on a single project in a group, we will do many changes and as we all know, adding just a
+goddamn space, fucks up everything.
+To prevent that we add branches.
+The main branch is called the master-branch.
+You can create a new branch by clicking on the left drop-down "Branch:Master"
+Name it anything, like 'newtest' and click enter.
+
+You'll see that your new branch has the exact same files as your main branch.
+Now while you are in this branch any changes/commits you make to this branch will not affect the main branch,
